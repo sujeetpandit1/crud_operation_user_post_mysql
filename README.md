@@ -1,4 +1,4 @@
-Steps to be followed to reun this code on your local machine.
+Steps to be followed to run this code on your local machine.
 
 1. Clone the code.
 2. After Cloning run "npm update", it will update all node modules.
