@@ -2,7 +2,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 
 
-const secretKey = 'Arjun_pandit';
+const secretKey = 'abcdefghij';
 
 //! user creation
 const register = async (req, res) => {
